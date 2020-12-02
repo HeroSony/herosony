@@ -21,6 +21,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [NuxtJS Server Side Rendering (SSR)](https://www.youtube.com/watch?v=LA-zSN89p4k)
 - [Build Artisan Command with TDD part II](https://www.youtube.com/watch?v=S-EURfEMyVk)
 - [Build Artisan Command with TDD part I](https://www.youtube.com/watch?v=b65PpnVmrzk)
@@ -34,6 +35,6 @@
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HeroSony&show_icons=true&hide_border=true" />
 
-[website]: https://zoneofit.com
+[website]: http://zoneofit.com
 [twitter]: https://twitter.com/Hero_Sony
 [youtube]: https://youtube.com/herosony
