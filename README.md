@@ -10,6 +10,13 @@
 
 <br />
 
+## Learning History
+
+- 💻 Fully Training Course at [Korean Software HRD Center][kshrd]
+- 🎓 Bachelor Degree in Science Technology
+
+<br />
+
 ## Skills
 
 <img align="left" alt="Laravel" title="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
@@ -27,13 +34,6 @@
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <br />
-<br />
-
-## Learning History
-
-- 💻 Fully Training Course at [Korean Software HRD Center][kshrd]
-- 🎓 Bachelor Degree in Science Technology
-
 <br />
 
 ## Connect with me:
