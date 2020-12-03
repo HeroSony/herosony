@@ -10,7 +10,7 @@
 
 <br />
 
-## 💪 Skills
+## Skills
 
 <img align="left" alt="Laravel" title="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="Django" title="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
@@ -25,6 +25,8 @@
 <img align="left" alt="NuxtJS" title="NuxtJS" width="26px" src="https://d33wubrfki0l68.cloudfront.net/6ff34ec8760318b99888ee4b75d1e265170a84b9/6479c/logos/nuxt.svg" />
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<br />
 <br />
 
 ## Learning History
@@ -47,6 +49,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [NuxtJS Server Side Rendering (SSR)](https://www.youtube.com/watch?v=LA-zSN89p4k)
 - [Build Artisan Command with TDD part II](https://www.youtube.com/watch?v=S-EURfEMyVk)
 - [Build Artisan Command with TDD part I](https://www.youtube.com/watch?v=b65PpnVmrzk)
