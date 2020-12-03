@@ -49,7 +49,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [NuxtJS Server Side Rendering (SSR)](https://www.youtube.com/watch?v=LA-zSN89p4k)
 - [Build Artisan Command with TDD part II](https://www.youtube.com/watch?v=S-EURfEMyVk)
 - [Build Artisan Command with TDD part I](https://www.youtube.com/watch?v=b65PpnVmrzk)
