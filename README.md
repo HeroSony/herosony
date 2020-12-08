@@ -1,4 +1,4 @@
-## Hi there, My real name is Sim Virak - aka [HeroSony][website] 👋
+## Hi there, My real name is Sim Virak - aka [HeroSony][personalwebsite] 👋
 
 [![Website](https://img.shields.io/website?label=zoneofit.com&style=for-the-badge&url=http%3A%2F%2Fzoneofit.com)](http://zoneofit.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hero_Sony?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHero_Sony&screen_name=Hero_Sony)
@@ -49,6 +49,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [NuxtJS Server Side Rendering (SSR)](https://www.youtube.com/watch?v=LA-zSN89p4k)
 - [Build Artisan Command with TDD part II](https://www.youtube.com/watch?v=S-EURfEMyVk)
 - [Build Artisan Command with TDD part I](https://www.youtube.com/watch?v=b65PpnVmrzk)
@@ -62,6 +63,7 @@
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HeroSony&show_icons=true&hide_border=true" />
 
+[personalwebsite]: https://herosony.github.io/?target=_blank
 [website]: http://zoneofit.com
 [twitter]: https://twitter.com/Hero_Sony
 [youtube]: https://youtube.com/herosony
