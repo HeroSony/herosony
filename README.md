@@ -63,7 +63,7 @@
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HeroSony&show_icons=true&hide_border=true" />
 
-[personalwebsite]: https://herosony.github.io/?target=_blank
+[personalwebsite]: https://herosony.github.io/
 [website]: http://zoneofit.com
 [twitter]: https://twitter.com/Hero_Sony
 [youtube]: https://youtube.com/herosony
