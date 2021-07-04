@@ -49,12 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [NextJS Github Page](https://www.youtube.com/watch?v=WgJbfMxUl8A)
 - [NuxtJS Server Side Rendering (SSR)](https://www.youtube.com/watch?v=LA-zSN89p4k)
 - [Build Artisan Command with TDD part II](https://www.youtube.com/watch?v=S-EURfEMyVk)
 - [Build Artisan Command with TDD part I](https://www.youtube.com/watch?v=b65PpnVmrzk)
 - [Auth Role Permission Basic in Laravel](https://www.youtube.com/watch?v=D71NJ35TRxE)
-- [CRUD with Vue JS](https://www.youtube.com/watch?v=qA5PlSh1Qq8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/herosony)
@@ -63,7 +62,7 @@
 
 <img align="left" alt="HeroSony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HeroSony&show_icons=true&hide_border=true" />
 
-[personalwebsite]: https://herosony.github.io/?target=_blank
+[personalwebsite]: https://herosony.github.io/
 [website]: http://zoneofit.com
 [twitter]: https://twitter.com/Hero_Sony
 [youtube]: https://youtube.com/herosony
