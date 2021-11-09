@@ -50,7 +50,7 @@
 
 <!-- YOUTUBE:START -->
 - [NextJS Github Page](https://www.youtube.com/watch?v=WgJbfMxUl8A)
-- [NuxtJS Server Side Rendering (SSR)](https://www.youtube.com/watch?v=LA-zSN89p4k)
+- [NuxtJS Server Side Rendering &lpar;SSR&rpar;](https://www.youtube.com/watch?v=LA-zSN89p4k)
 - [Build Artisan Command with TDD part II](https://www.youtube.com/watch?v=S-EURfEMyVk)
 - [Build Artisan Command with TDD part I](https://www.youtube.com/watch?v=b65PpnVmrzk)
 - [Auth Role Permission Basic in Laravel](https://www.youtube.com/watch?v=D71NJ35TRxE)
