@@ -13,12 +13,13 @@
 ## Learning History
 
 - 💻 Fully Training Course at [Korean Software HRD Center][kshrd]
-- 🎓 Bachelor Degree in Science Technology
+- 🎓 Bachelor's Degree in Science and Technology
 
 <br />
 
 ## Skills
 
+<img align="left" alt="AWS" title="AWS Cloud Services" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Laravel" title="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="Django" title="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
